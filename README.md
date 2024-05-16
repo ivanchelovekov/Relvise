@@ -6,5 +6,5 @@
  - JS
  - Gulp
 
-![screenshot](https://github.com/ivanchelovekov/Furniture/blob/main/screenshot.png)
+![screenshot](https://github.com/ivanchelovekov/Relvise/blob/main/img/screenshot.png)
 
