@@ -4,6 +4,7 @@
  - BEM
  - SCSS
  - JS
+ - Date and cycle
  - Gulp
 
 ![screenshot](https://github.com/ivanchelovekov/Relvise/blob/main/img/screenshot.png)
